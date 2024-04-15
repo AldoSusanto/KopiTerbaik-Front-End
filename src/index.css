@@ -1,0 +1,15 @@
+* {
+  margin: auto;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+body {
+  background-image: url("assets/orange-bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 20px;
+  padding-bottom: 50px;
+}
