@@ -9,7 +9,7 @@ import Task from "../Task/Task";
 const Column = ({ tasks }) => {
   return (
     <div className="parentColumn">
-      <p className="columnLabel columnLabelTop">Paling Enak</p>
+      <p className="columnLabel columnLabelTop">Most Favorite</p>
       <div className="column">
         <SortableContext items={tasks} strategy={verticalListSortingStrategy}>
           {tasks.map((task) => (
@@ -23,7 +23,7 @@ const Column = ({ tasks }) => {
           ))}
         </SortableContext>
       </div>
-      <p className="columnLabel columnLabelBot">Kurang Enak</p>
+      <p className="columnLabel columnLabelBot">Least Favorite</p>
     </div>
   );
 };

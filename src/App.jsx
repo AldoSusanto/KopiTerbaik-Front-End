@@ -69,13 +69,13 @@ function App() {
     },
     {
       id: 11,
-      title: "Calf",
+      title: "Kopi Calf",
       imgSrc:
         "https://media.licdn.com/dms/image/C4D0BAQFgV3e9WlZ6AQ/company-logo_200_200/0/1655366606998?e=2147483647&v=beta&t=fN6GImzEhjJdkG09uo268rIUs74ZeaJUeLmoJZzB3ww",
     },
     {
       id: 12,
-      title: "% Arabica",
+      title: "% Arabica Coffee",
       imgSrc:
         "https://www.centralparkjakarta.com/wp-content/uploads/2021/02/Arabica-logo.jpg",
     },
@@ -150,7 +150,7 @@ function App() {
       },
       {
         id: 8,
-        title: "Kopi Soe ",
+        title: "Kopi Soe",
         imgSrc:
           "https://media.licdn.com/dms/image/C560BAQGzdZm6U6wpNw/company-logo_200_200/0/1641271445102/kopi_soe_logo?e=2147483647&v=beta&t=hqcNFH6RoE_GQl8oKdm_3EeHwStQ8PH5roXoLLqT2GY",
       },
@@ -168,13 +168,13 @@ function App() {
       },
       {
         id: 11,
-        title: "Calf",
+        title: "Kopi Calf",
         imgSrc:
           "https://media.licdn.com/dms/image/C4D0BAQFgV3e9WlZ6AQ/company-logo_200_200/0/1655366606998?e=2147483647&v=beta&t=fN6GImzEhjJdkG09uo268rIUs74ZeaJUeLmoJZzB3ww",
       },
       {
         id: 12,
-        title: "% Arabica",
+        title: "% Arabica Coffee",
         imgSrc:
           "https://www.centralparkjakarta.com/wp-content/uploads/2021/02/Arabica-logo.jpg",
       },
@@ -199,7 +199,7 @@ function App() {
           },
         }}
       />
-      <h1 className="title">Rank Kopi Favoritmu !</h1>
+      <h1 className="title">KopiTerbaik.com - Rank Kopi Favoritmu !</h1>
       <p className="subTitle">
         Menurutmu, franchise kopi manakah yang terbaik? Urutkan dibawah !{" "}
       </p>
