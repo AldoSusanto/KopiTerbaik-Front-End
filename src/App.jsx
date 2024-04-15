@@ -199,10 +199,12 @@ function App() {
           },
         }}
       />
-      <h1 className="title">KopiTerbaik.com - Rank Kopi Favoritmu !</h1>
+      <p className="webTitle">KopiTerbaik.com </p>
+      <h1 className="title">Rank Kopi Favoritmu</h1>
       <p className="subTitle">
         Menurutmu, franchise kopi manakah yang terbaik? Urutkan dibawah !{" "}
       </p>
+
       <DndContext onDragEnd={handleDragEnd} collisionDetection={closestCorners}>
         <Column tasks={tasks}></Column>
       </DndContext>
